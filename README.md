@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus! 👋
 
-Sou um **Desenvolvedor** que adora criar soluções com **JavaScript**.
+Gosto de **Desenvolver** soluções em **JavaScript**.
 
 ### 💻 Tecnologias que eu uso:
 
