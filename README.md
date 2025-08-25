@@ -10,8 +10,8 @@ Sou um **Desenvolvedor** que adora criar soluções com **JavaScript**.
   </a>
 </p>
 
-- 🔭 Atualmente estou trabalhando no projeto **Controle de Celulares**!
-- 🌱 Aprendendo cada vez mais sobre **Electron** e **Node.js**.
+- 🔭 Atualmente estou trabalhando no projeto **Bot financeiro whatsapp**!
+- 🌱 Aprendendo cada vez mais sobre **JS** e **Node.js**.
 
 ---
 ### Estatísticas do meu GitHub
